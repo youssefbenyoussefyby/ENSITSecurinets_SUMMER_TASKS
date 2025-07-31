@@ -36,11 +36,11 @@ The presence of `UPX!` confirms the binary is packed with UPX.
 ## 3. Static Analysis with Ghidra
 
 
- [Ghidra Decompile](../assets/mai.png)
- [Ghidra Decompile](../assets/random.png)
- [Ghidra Decompile](../assets/encrypt.png)
- [Ghidra Decompile](../assets/verif.png)
- [Ghidra Decompile](../assets/xor.png)
+ ![Ghidra Decompile](../assets/mai.png)
+ ![Ghidra Decompile](../assets/random.png)
+ ![Ghidra Decompile](../assets/encrypt.png)
+ ![Ghidra Decompile](../assets/verif.png)
+ ![Ghidra Decompile](../assets/xor.png)
 
 
 
@@ -165,9 +165,9 @@ bool xor(uint32_t a, uint32_t b) {
 
 ## 4. Dynamic Analysis: Extracting Values with GDB
 
- [GDB Dump](../assets/encflag.png)
+ ![GDB Dump](../assets/encflag.png)
 
- [random Dump](../assets/random_dump.png)
+ ![random Dump](../assets/random_dump.png)
 
 
 
