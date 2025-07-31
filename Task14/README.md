@@ -122,7 +122,7 @@ Remove-Item $MyInvocation.MyCommand.Path
 
   * **Recipe:** Base64 → AES Decrypt (Key=`0123456789abcdef`, IV=`abcdef9876543210`, Mode=CBC, Padding=PKCS7)
 
-![Placeholder: CyberChef payload decryption screenshot](assets/cyberchef_payload.png)
+![Placeholder: CyberChef payload decryption screenshot](../assets/cyberchef_payload.png)
 
 * **Resulting script:**
 
@@ -184,7 +184,7 @@ Or via CyberChef:
 1. Import `flag.enc` as raw bytes.
 2. AES Decrypt (Key/IV above, CBC, PKCS7).
 
-![Placeholder: CyberChef flag decryption screenshot](assets/cyberchef_flag.png)
+![Placeholder: CyberChef flag decryption screenshot](../assets/cyberchef_flag.png)
 
 * **Flag:** `Securinets{I_d0nt_kn0w_h0w_t0_b3_s1l3nt_wh3n_my_HearT_1s_sp34k1ng}`
 
