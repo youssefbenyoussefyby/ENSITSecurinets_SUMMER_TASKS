@@ -18,7 +18,7 @@ Securinets{S0m3_4udi0_g4m3s
 ```
 3. Notice the last part is cut off. The flag’s prefix is revealed, but the ending is missing.
 
-![Specto Screenshot](assets/image1.png)
+![Specto Screenshot](../assets/image1.png)
 
 ---
 
